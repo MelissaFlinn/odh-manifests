@@ -9,5 +9,5 @@ resources:
   - ./jupyter
   - ./openvino
   - ./pachyderm
-  - ./rhoai
+  - ./rhoai-docs
   - ./watson
