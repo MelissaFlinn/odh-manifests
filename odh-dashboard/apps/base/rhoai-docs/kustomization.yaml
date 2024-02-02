@@ -4,10 +4,4 @@ commonLabels:
   app: odh-dashboard
   app.kubernetes.io/part-of: odh-dashboard
 resources:
-  - ./aikit
-  - ./anaconda-ce
-  - ./jupyter
-  - ./openvino
-  - ./pachyderm
-  - ./rhoai
-  - ./watson
+- rhoas-docs-fraud-tutorial.yaml

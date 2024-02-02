@@ -1,12 +1,12 @@
 apiVersion: dashboard.opendatahub.io/v1
 kind: OdhDocument
 metadata:
-  name: rhoai-docs-fraud-tutorial
+  name: rhoai-tutorial-fraud
   annotations:
     opendatahub.io/categories: 'Getting started,Model training,Notebook environments,Pipelines'
 spec:
   displayName: OpenShift AI tutorial - Fraud detection example
-  appName: rhoai
+  appName: rhoai-docs
   type: how-to
   description: |-
     Use OpenShift AI to develop and train an example model in Jupyter Notebooks, deploy the model, integrate the model into a fraud detection application, and refine the model by using automated pipelines. 
